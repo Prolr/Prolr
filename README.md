@@ -1,5 +1,5 @@
 <!-- Header ondulado combinando com o pôr-do-sol -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E43A15&height=120&section=header&text=DEVELOPER&fontColor=FBEAD1&fontAlign=50&fontAlignY=35&fontSize=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header&text=DEVELOPER&fontColor=FBEAD1&fontAlign=50&fontAlignY=35&fontSize=42"/>
 
 <div align="center">
 
@@ -9,33 +9,30 @@
     Olá! Eu sou <b>Rafael Silva</b> 👋
   </samp>
 
-  <!-- Contador de visitas (vermelho-alaranjado) -->
+  <!-- Contador de visitas (vermelho intenso) -->
   <p align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FProlr&s=21&c=E43A15&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FProlr&s=21&c=B22222&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p>
 
-  <!-- Badges no tema pôr‑do‑sol -->
-  <img src="https://img.shields.io/badge/SQL%20Lover-E43A15?style=for-the-badge&logo=postgresql&logoColor=FBEAD1" />
-  <img src="https://img.shields.io/badge/Database%20Student-E43A15?style=for-the-badge&logo=databricks&logoColor=FBEAD1" />
+  <!-- Badges no vermelho do céu -->
+  <img src="https://img.shields.io/badge/SQL%20Lover-B22222?style=for-the-badge&logo=postgresql&logoColor=FBEAD1" />
+  <img src="https://img.shields.io/badge/Database%20Student-B22222?style=for-the-badge&logo=databricks&logoColor=FBEAD1" />
 
   <br><br>
 
-  <!-- GIF/Imagem no mesmo estilo (use seu arquivo no repo) -->
-  <img src="./samurai.gif" alt="Samurai Sunset" style="border-radius:16px; box-shadow: 0 8px 30px rgba(228,58,21,.35);" />
-  <!-- fallback (se quiser, remova o comentário e use):
-  <img src="samurai_passaros.gif" />
-  -->
+  <!-- GIF/Imagem no mesmo estilo -->
+  <img src="./samurai.gif" alt="Samurai Sunset" style="border-radius:16px; box-shadow: 0 8px 30px rgba(178,34,34,.35);" />
 
   <br><br>
 
   <!-- Texto digitando com cor quente -->
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFA36C&width=900&size=22&center=true&lines=I'm+from+Brazil;Student+of+Databases+(4th+period);I+work+with+SQL%2C+Python+and+R;Always+learning!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B22222&width=900&size=22&center=true&lines=I'm+from+Brazil;Student+of+Databases+(4th+period);I+work+with+SQL%2C+Python+and+R;Always+learning!" />
 
 </div>
 
 <br>
 
-<!-- Seção extra com cards (tema 'radical' puxa vermelho/escuro) -->
+<!-- Seção extra com cards (tema radical já puxa para vermelho escuro) -->
 <details align="center">
   <summary><samp><b>More Info</b></samp></summary>
   <br>
@@ -60,10 +57,8 @@
   </div>
 
   <br>
-<img src="https://github.com/user-attachments/assets/d09ae3fb-c323-40de-9beb-124468a81277" width="500px" alt="Imagem de boas-vindas"/>
+  <img src="https://github.com/user-attachments/assets/d09ae3fb-c323-40de-9beb-124468a81277" width="500px" alt="Imagem de boas-vindas"/>
 </details>
 
-<!-- Rodapé ondulado com mesma paleta -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E43A15&height=100&section=footer"/>
-
-
+<!-- Rodapé ondulado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=100&section=footer"/>
