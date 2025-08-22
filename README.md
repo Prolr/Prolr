@@ -5,7 +5,7 @@
   <b>`DEVELOPER`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Mestre</b> 👋
+      Hi there! I'm <b>Rafael Silva</b> 👋
   </samp>
 </div>
 
