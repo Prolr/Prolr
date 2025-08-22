@@ -1,45 +1,36 @@
-<img width="100%" src="[[COLE AQUI O LINK PERMANENTE DA IMAGEM]](https://products.aspose.app/imaging/pt/animation-maker/navigation/uploaded/result)"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f52ba&height=120&section=header"/>
 
 <div align="center">
   
   <b>`DEVELOPER`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi there! I'm <b>Mestre</b> 👋
   </samp>
 </div>
+
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FProlr&s=21&c=0f52ba&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
-<br>
-      
+
 <div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="200">
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/SQL%20Lover-0f52ba?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Student-0f52ba?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
-<br>
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0f52ba&width=900&size=22&center=true&lines=I'm+from+Brazil;Student+of+Databases+(4th+period);I+work+with+SQL%2C+Python+and+R;Always+learning!" alt="Typing SVG"/>
 </div>
 
-<br>
 <br>
 
 <details align="center">  
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+      <samp><b>More Info</b></samp>
   </summary>
   
   <br>
@@ -48,47 +39,30 @@
   <img
     height=165
     align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=Prolr&show_icons=true&count_private=true&theme=tokyonight"
   />
   <img
     height=165
     align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolr&layout=compact&langs_count=16&theme=tokyonight"
   />
-  <br>
-  <br>
+  <br><br>
   <img
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prolr&theme=tokyonight"
   />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
-  />
-  </div>
+</div>
+
+<br>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
 </div>
 
 <br>
@@ -97,38 +71,12 @@
 
 <br>
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
 
 <br>
 
 </details>
 
 <br>
-<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f52ba&height=100&section=footer"/>
