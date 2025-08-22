@@ -60,7 +60,7 @@
   </div>
 
   <br>
-<img src="https://github.com/user-attachments/assets/2dded6bf-12b2-47c0-869b-1e40a2094015" width="500px" alt="Imagem de boas-vindas"/>
+<img src="https://github.com/user-attachments/assets/d09ae3fb-c323-40de-9beb-124468a81277" width="500px" alt="Imagem de boas-vindas"/>
 </details>
 
 <!-- Rodapé ondulado com mesma paleta -->
