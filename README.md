@@ -32,15 +32,18 @@
 
 <br>
 
-<!-- Seção extra com cards (tema radical já puxa para vermelho escuro) -->
+<!-- Seção extra com cards personalizados -->
 <details align="center">
   <summary><samp><b>More Info</b></samp></summary>
   <br>
 
   <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/?username=Prolr&show_icons=true&count_private=true&theme=radical" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolr&layout=compact&langs_count=16&theme=radical" />
+    <!-- Stats -->
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prolr&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FBEAD1&text_color=FBEAD1&icon_color=B22222" />
+    <!-- Top Langs -->
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolr&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=FBEAD1&text_color=FBEAD1" />
     <br><br>
+    <!-- Profile Details -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prolr&theme=radical" />
   </div>
 
@@ -75,7 +78,7 @@
 
 <div align="center">
 
-  <!-- Activity Graph (heatmap com sua paleta) -->
+  <!-- Activity Graph -->
   <img
     alt="Contribution Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Prolr&radius=12&area=true&hide_border=true&bg_color=00000000&color=FBEAD1&line=B22222&point=FBEAD1&area_color=B22222&custom_title=Contribuições%20no%20último%20ano"
@@ -84,11 +87,33 @@
 
   <br><br>
 
-  <!-- Streak (sequência de contribuições) -->
+  <!-- Streak -->
   <img
     alt="Contribution Streak"
     src="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=00000000&ring=B22222&fire=B22222&currStreakNum=FBEAD1&sideNums=FBEAD1&currStreakLabel=FBEAD1&sideLabels=FBEAD1&dates=FBEAD1"
     height="170"
   />
 
-  <!-- Pequena leg
+  <!-- Legenda -->
+  <p>
+    <samp>
+      <span style="color:#FBEAD1">●</span> Atividade diária &nbsp;|&nbsp;
+      <span style="color:#B22222">●</span> Sequência atual
+    </samp>
+  </p>
+</div>
+
+<!-- Lista de anos -->
+<a id="years-list"></a>
+<p align="center">
+  <samp>
+    Years:
+    <a href="https://github.com/Prolr?tab=overview&from=2025-01-01&to=2025-12-31">2025</a> ·
+    <a href="https://github.com/Prolr?tab=overview&from=2024-01-01&to=2024-12-31">2024</a> ·
+    <a href="https://github.com/Prolr?tab=overview&from=2023-01-01&to=2023-12-31">2023</a>
+  </samp>
+</p>
+<!-- ======================================================================= -->
+
+<!-- Rodapé ondulado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=100&section=footer"/>
