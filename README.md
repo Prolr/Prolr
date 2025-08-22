@@ -60,5 +60,35 @@
   <img src="https://github.com/user-attachments/assets/d09ae3fb-c323-40de-9beb-124468a81277" width="500px" alt="Imagem de boas-vindas"/>
 </details>
 
-<!-- Rodapé ondulado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=100&section=footer"/>
+<!-- ===================== Contribuições Personalizadas ===================== -->
+<a id="contribs"></a>
+<h3 align="center">
+  <samp>Contributions in the last year</samp>
+</h3>
+
+<!-- Link de acessibilidade / pular para lista de anos -->
+<p align="center" style="margin-top: -6px;">
+  <a href="#years-list" style="text-decoration:none;">
+    <samp>Skip to contributions year list</samp>
+  </a>
+</p>
+
+<div align="center">
+
+  <!-- Activity Graph (heatmap com sua paleta) -->
+  <img
+    alt="Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prolr&radius=12&area=true&hide_border=true&bg_color=00000000&color=FBEAD1&line=B22222&point=FBEAD1&area_color=B22222&custom_title=Contribuições%20no%20último%20ano"
+    width="100%"
+  />
+
+  <br><br>
+
+  <!-- Streak (sequência de contribuições) -->
+  <img
+    alt="Contribution Streak"
+    src="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=00000000&ring=B22222&fire=B22222&currStreakNum=FBEAD1&sideNums=FBEAD1&currStreakLabel=FBEAD1&sideLabels=FBEAD1&dates=FBEAD1"
+    height="170"
+  />
+
+  <!-- Pequena leg
