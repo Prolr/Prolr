@@ -43,10 +43,7 @@
     <!-- Top Langs -->
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolr&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=FBEAD1&text_color=FBEAD1" />
     <br><br>
-    <!-- Profile Details -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prolr&theme=radical" />
-  </div>
-
+   
   <br>
 
   <div align="center" style="display:inline_block">
