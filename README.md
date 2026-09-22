@@ -118,9 +118,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Prolr&theme=dark&hide_border=true&background=00000000&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Prolr&theme=default&hide_border=true&background=00000000&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prolr&theme=dark&hide_border=true&background=00000000&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake.svg" alt="snake" />
 </picture>
 
 </div>
