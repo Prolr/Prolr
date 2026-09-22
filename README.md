@@ -1,117 +1,138 @@
-<!-- Header ondulado combinando com o pôr-do-sol -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header&text=DEVELOPER&fontColor=FBEAD1&fontAlign=50&fontAlignY=35&fontSize=42"/>
-
 <div align="center">
 
-  <!-- Título / Intro -->
-  
-  <samp>
-    <br>
-    Olá! Eu sou <b>Rafael Silva</b> 👋
-  </samp>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Rafael+Souza" alt="Rafael Souza" />
 
-  <!-- Contador de visitas (vermelho intenso) -->
-  <p align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FProlr&s=21&c=B22222&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p>
+<br/>
 
-  <!-- Badges no vermelho do céu -->
-  <img src="https://img.shields.io/badge/SQL%20Lover-B22222?style=for-the-badge&logo=postgresql&logoColor=FBEAD1" />
-  <img src="https://img.shields.io/badge/Database%20Student-B22222?style=for-the-badge&logo=databricks&logoColor=FBEAD1" />
+<sub>São Paulo/SP · Desenvolvedor Back-End · Apaixonado por Python, Java, APIs REST e Integrações</sub>
 
-  <br><br>
+<br/><br/>
 
-  <!-- GIF/Imagem no mesmo estilo -->
-  <img src="./samurai.gif" alt="Samurai Sunset" style="border-radius:16px; box-shadow: 0 8px 30px rgba(178,34,34,.35);" />
-
-  <br><br>
-
-  <!-- Texto digitando com cor quente -->
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B22222&width=900&size=22&center=true&lines=I'm+from+Brazil;Student+of+Databases+(4th+period);I+work+with+SQL%2C+Python+and+R;Always+learning!" />
+<a href="https://linkedin.com/in/r-silva-souza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:r.souza.full.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Prolr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<br>
+<br/>
 
-<!-- Seção extra com cards personalizados -->
-<details align="center">
-  <summary><samp><b>More Info</b></samp></summary>
-  <br>
+<div align="center">
 
-  <div align="center">
-    <!-- Stats -->
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prolr&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FBEAD1&text_color=FBEAD1&icon_color=B22222" />
-    <!-- Top Langs -->
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolr&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=FBEAD1&text_color=FBEAD1" />
-    <br><br>
-   
-  <br>
+**Tech Stack**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-  <div align="center" style="display:inline_block">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  </div>
+**Ferramentas & Infra**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-  <br>
-  <img src="https://github.com/user-attachments/assets/d09ae3fb-c323-40de-9beb-124468a81277" width="500px" alt="Imagem de boas-vindas"/>
+</div>
+
+<details>
+<summary>&nbsp;<b>Habilidades Técnicas Expandidas</b>&nbsp;—&nbsp;Ver todas</summary>
+<br/>
+
+<p>
+<strong>Linguagens & Frameworks:</strong><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71100?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+<p>
+<strong>APIs, Autenticação & Segurança:</strong><br/>
+<img src="https://img.shields.io/badge/REST_APIs-00599C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Webhooks-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-3D3D3D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Keys-4EAA25?style=flat-square&logoColor=white" />
+</p>
+
+<p>
+<strong>Bancos de Dados:</strong><br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-131313?style=flat-square&logoColor=white" />
+</p>
+
 </details>
 
-<!-- ===================== Contribuições Personalizadas ===================== -->
-<a id="contribs"></a>
-<h3 align="center">
-  <samp>Contributions in the last year</samp>
-</h3>
-
-<!-- Link de acessibilidade / pular para lista de anos -->
-<p align="center" style="margin-top: -6px;">
-  <a href="#years-list" style="text-decoration:none;">
-    <samp>Skip to contributions year list</samp>
-  </a>
-</p>
+<br/>
 
 <div align="center">
 
-  <!-- Activity Graph -->
-  <img
-    alt="Contribution Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prolr&radius=12&area=true&hide_border=true&bg_color=00000000&color=FBEAD1&line=B22222&point=FBEAD1&area_color=B22222&custom_title=Contribuições%20no%20último%20ano"
-    width="100%"
-  />
+### 💼 Experiência Profissional & Projetos
 
-  <br><br>
+| Empresa / Projeto | Cargo / Escopo | Principais Tecnologias |
+| --- | --- | --- |
+| **Zentic** *(2026 - Atual)* | **Analista de Monitoramento e Suporte Jr** — Integrações em Python, migração entre bases SQL Server (Projeto Cielo AB02), *schedulers* automatizados e monitoramento de Jobs. | `Python` `SQL Server` `PostgreSQL` `DBeaver` `Schedulers` |
+| **3Cor Seguros** *(2025 - 2026)* | **Técnico de Suporte ao Usuário** — Otimização de fluxos de vendas, criação de dashboards analíticos, automações internas e suporte N1. | `Power BI` `Monday CRM` `TOTVS Ahgora` `Google Apps Script` |
+| **Formação & Certificações** | **Graduação em Banco de Dados (UNINOVE)** • APIs REST com Java & Spring Boot (SENAI) • FastAPI Assíncrono (Geek Univ.) • Python Data Science (SENAI). | `Java` `Spring Boot` `FastAPI` `Data Science` |
 
-  <!-- Streak -->
-  <img
-    alt="Contribution Streak"
-    src="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=00000000&ring=B22222&fire=B22222&currStreakNum=FBEAD1&sideNums=FBEAD1&currStreakLabel=FBEAD1&sideLabels=FBEAD1&dates=FBEAD1"
-    height="170"
-  />
-
-  <!-- Legenda -->
-  <p>
-    <samp>
-      <span style="color:#FBEAD1">●</span> Atividade diária &nbsp;|&nbsp;
-      <span style="color:#B22222">●</span> Sequência atual
-    </samp>
-  </p>
 </div>
 
-<!-- Lista de anos -->
-<a id="years-list"></a>
-<p align="center">
-  <samp>
-    Years:
-    <a href="https://github.com/Prolr?tab=overview&from=2025-01-01&to=2025-12-31">2025</a> ·
-    <a href="https://github.com/Prolr?tab=overview&from=2024-01-01&to=2024-12-31">2024</a> ·
-    <a href="https://github.com/Prolr?tab=overview&from=2023-01-01&to=2023-12-31">2023</a>
-  </samp>
-</p>
-<!-- ======================================================================= -->
+<br/>
 
-<!-- Rodapé ondulado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=100&section=footer"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Prolr&show_icons=true&title_color=007ACC&text_color=c9d1d9&icon_color=007ACC&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Prolr&show_icons=true&title_color=007ACC&text_color=24292f&icon_color=007ACC&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Prolr&show_icons=true&title_color=007ACC&text_color=c9d1d9&icon_color=007ACC&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prolr&title_color=007ACC&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prolr&title_color=007ACC&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prolr&title_color=007ACC&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=0d1117&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=ffffff&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=Prolr&hide_border=true&background=0d1117&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Prolr/Prolr/output/github-snake.svg" alt="snake" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Construindo soluções escaláveis com Python, Java e SQL</sub>
+
+<br/><br/>
+
+[![](https://komarev.com/ghpvc/?username=Prolr&color=007ACC&style=flat-square&label=Views)](https://github.com/Prolr)
+
+</div>
