@@ -4,10 +4,11 @@
 
 <br/>
 
-<sub>São Paulo/SP · Desenvolvedor Back-End · Apaixonado por Python, Java, APIs REST e Integrações</sub>
+<sub>São Paulo/SP · Desenvolvedor Back-End · Apaixonado por Python, Java, APIs REST e Integrações.</sub><br/>
+                      </sub>𝐴 𝑠𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑑𝑎𝑑𝑒 é 𝑜 ú𝑙𝑡𝑖𝑚𝑜 𝑔𝑟𝑎𝑢 𝑑𝑒 𝑠𝑜𝑓𝑖𝑠𝑡𝑖𝑐𝑎çã𝑜.☕
 
-<br/><br/>
-
+<br/>
+                                                       <sub>𝑪𝑂𝑵𝑇𝑨𝑇𝑶<sub><br>
 <a href="https://linkedin.com/in/r-silva-souza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:r.souza.full.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/Prolr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
