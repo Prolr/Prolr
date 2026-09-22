@@ -78,13 +78,11 @@
 <div align="center">
 
 ### 💼 Experiência Profissional & Projetos
-
-| **3Cor Seguros** *(2026 - Atual)* | **Técnico de Suporte ao Usuário** — Otimização de fluxos de vendas, criação de dashboards analíticos, automações internas e suporte N1. | `Power BI` `Monday CRM` `TOTVS Ahgora` `Google Apps Script` |
-| **Formação & Certificações** | **Graduação em Banco de Dados (UNINOVE)** • APIs REST com Java & Spring Boot (SENAI) • FastAPI Assíncrono (Geek Univ.) • Python Data Science (SENAI). | `Java` `Spring Boot` `FastAPI` `Data Science` |
-
 | Empresa / Projeto | Cargo / Escopo | Principais Tecnologias |
 | --- | --- | --- |
-| **Zentic** *(2025 - 2026 )* | **Analista de Monitoramento e Suporte Jr** — Integrações em Python, migração entre bases SQL Server (Projeto Cielo AB02), *schedulers* automatizados e monitoramento de Jobs. | `Python` `SQL Server` `PostgreSQL` `DBeaver` `Schedulers` |
+| **3Cor Seguros** *(2026 - Atual)* | **Técnico de Suporte ao Usuário** — Otimização de fluxos de vendas, criação de dashboards analíticos, automações internas e suporte N1. | `Power BI` `Monday CRM` `TOTVS Ahgora` `Google Apps Script` |
+| **Zentic** *(2025 - 2026)* | **Analista de Monitoramento e Suporte Jr** — Integrações em Python, migração entre bases SQL Server (Projeto Cielo AB02), *schedulers* automatizados e monitoramento de Jobs. | `Python` `SQL Server` `PostgreSQL` `DBeaver` `Schedulers` |
+| **Formação & Certificações** | **Graduação em Banco de Dados (UNINOVE)** • APIs REST com Java & Spring Boot (SENAI) • FastAPI Assíncrono (Geek Univ.) • Python Data Science (SENAI). | `Java` `Spring Boot` `FastAPI` `Data Science` |
 
 </div>
 
